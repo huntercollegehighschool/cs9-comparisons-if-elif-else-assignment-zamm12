@@ -21,6 +21,10 @@ smallest = number
 
 number = int(input("Enter another number: "))
 
+smallest = number
+
+number = int(input("Enter another number: "))
+
 if number < smallest:
   smallest = number
   
