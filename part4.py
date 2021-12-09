@@ -2,7 +2,7 @@
 ______
 PART 4
 ______
-Write a program that prompts the user to enter two integer inputs. The program prints a string stating if the inputs are both positive, negative, if one of the inputs is zero, or if they have opposite signs. (Hint: this code can be written using only four code blocks, but you may find ways to do this using more.)
+Write a program that rprompts the user to enter two integer inputs. The program prints a string stating if the inputs are both positive, negative, if one of the inputs is zero, or if they have opposite signs. (Hint: this code can be written using only four code blocks, but you may find ways to do this using more.)
 
 Four examples of what should appear on the console when this program runs (note: the test driver is case sensitive):
 
